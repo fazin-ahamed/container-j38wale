@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "fazin-ahamed",
+  "repo": "container-j38wale",
+  "name": "fazin-ahamed",
+  "email": "minefazin@gmail.com",
+}
